@@ -12,13 +12,40 @@
     "id": 1,
     "delivery_date": "July, 11, 2019",
     "name": "Sahil Bedi",
-    "address": "4418 214th Pl SE",
+    "address": "44418 2144th Pl SE",
     "city": "Bothell",
     "state": "WA",
     "zip_code": "98021",
     "contact": {
-      "phone": "425-443-1479",
-      "email": "sahil.cse@gmail.com"
+      "phone": "555-555-5555",
+      "email": "sahil@gmail.com"
+    },
+    "delivery_team": {
+      "contractor": "JCL Delivery",
+      "driver": "Luis Alberto"
+    },
+    "url": "https://raw.githubusercontent.com/paulfranco/DamageApi/master/1.jpg"
+  },
+  {
+    "delivery_issue": "Broken board outside the home that shows the address number",
+    "issue_type": "Property Damage Claim",
+    "status": "Open",
+    "cost": "350.00",
+    "notes": {
+      "driver_notes": "I accept responsibility for the damage",
+      "customer_notes": "I'm old customer of more. Most of my home furniture was from Mor furniture. However, this experience was bad. First, delivery team did property damage with there truck ( I'm still following up for getting that fixed). Also in this salesperson did confusion with us. He did not make clear that he is giving us dinning table without leaves. We felt like Mor has cheated with us. If u were selling dinning table without leaves (that come with leaves) then it should be made clear that is reason of discount. Additionally, table came with many new scratches. Very unhappy :-(.",
+      "manager_notes": "Claim has been resolved"
+    },
+    "id": 2,
+    "delivery_date": "July, 12, 2019",
+    "name": "Sahildsds Bedidsds",
+    "address": "44418 2144th Pl SE",
+    "city": "Bothell",
+    "state": "WA",
+    "zip_code": "98021",
+    "contact": {
+      "phone": "555-555-5555",
+      "email": "sahil@gmail.com"
     },
     "delivery_team": {
       "contractor": "JCL Delivery",
